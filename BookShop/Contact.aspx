@@ -11,7 +11,7 @@
     </address>
 
     <address>
-        <strong>Support:</strong>   <a href="mailto:Support@bookshop.com">Support@example.com</a><br />
-        <strong>Marketing:</strong> <a href="mailto:Marketing@bookshop.com">Marketing@example.com</a>
+        <strong>Support:</strong>   <a href="mailto:Support@bookshop.com">Support@bookshop.com</a><br />
+        <strong>Marketing:</strong> <a href="mailto:Marketing@bookshop.com">Marketing@bookshop.com</a>
     </address>
 </asp:Content>
